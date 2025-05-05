@@ -21,7 +21,7 @@ title                    : "Going somewhere"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Susan Gogolski"
-description              : "An amazing website."
+description              : "An amazing website"
 url                      : "https://sgogolski.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : sgogolski/repo-name"
