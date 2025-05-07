@@ -21,7 +21,7 @@ feature_row1:
     btn_label: "Whatever you want your button to say"
     
 feature_row2:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/images/4C9008C8-D14E-4699-8430-C781C1FB0B43_1_105_c.jpeg
     alt: "Lectures"
     excerpt: "Enter a relatively short description here"
     url: "/lectures/" # note that these can also be full urls that take people to other sites
