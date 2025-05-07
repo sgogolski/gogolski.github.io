@@ -129,7 +129,8 @@ author:
 
 # Site Footer
 footer:
-  - label: "Website"
+  links:
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "GitHub"
