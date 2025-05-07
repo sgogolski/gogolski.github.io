@@ -29,7 +29,7 @@ feature_row2:
     btn_label: "Whatever you want your button to say"
     
 feature_row3:
-  - image_path:assets/images/6CDF7340-AF4F-4F43-8334-2AC89E236CDB_1_105_c.jpeg
+  - image_path: assets/images/6CDF7340-AF4F-4F43-8334-2AC89E236CDB_1_105_c.jpeg
     alt: "Image Analysis Project"
     excerpt: "Enter a relatively short description here"
     url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
