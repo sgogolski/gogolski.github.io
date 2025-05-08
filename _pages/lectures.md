@@ -3,7 +3,7 @@ layout: single
 permalink: /lectures/
 title: "Course Lectures"
 tagline: "Favorite and featured modules from CM515"
-author_profile: true
+author_profile: false
 read_time: true
 share: false
 classes: wide
