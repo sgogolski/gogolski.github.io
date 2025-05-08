@@ -5,8 +5,8 @@ main:
   - title: "Lectures"
     url: /lectures/
   - title: "Image"
-    url: /image_analysis_project/
+    url: /image/
   - title: "ggplot"
-    url: /ggplot_project/
+    url: /ggplot/
 
 
