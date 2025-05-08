@@ -3,7 +3,7 @@ layout: single
 permalink: /publications/   
 hidden: true
 header:
-  overlay_image: /assets/images/headers/publications_single-overlay.jpeg
+  overlay_image: /assets/images/4C9008C8-D14E-4699-8430-C781C1FB0B43_1_105_c.jpeg
 title: " Publications "
 tagline: " Publications in peer-reviewed journals and newsletters "   
 author_profile: true
