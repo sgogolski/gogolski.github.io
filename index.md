@@ -21,3 +21,8 @@ Some interesting non-R modules I enjoyed:
 ### Link to my website:
 
 [My GitHub website link](https://sgogolski.github.io)
+
+### View my project README:
+
+[View my project README](https://github.com/sgogolski.github.io/blob/main/README.md)
+
