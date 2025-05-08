@@ -5,11 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -293,14 +288,13 @@ compress_html:
     envs: development
 
 
-# Defaults
 defaults:
-  # All pages
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: false
-      share: true
+      author_profile: true
+      share: #true
     
