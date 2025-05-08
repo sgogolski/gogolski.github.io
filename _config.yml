@@ -290,12 +290,12 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # All pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: true
-      share: #true
+      author_profile: false
+      share: true
     
