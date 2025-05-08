@@ -2,6 +2,10 @@
 layout: single
 permalink: /
 hidden: true
+header:
+  #image: /assets/images/header.jpeg
+  #overlay_color: "#5e616c"
+  #overlay_image: /assets/images/fog_road.jpeg
 title: " "
 tagline: " "
 author_profile: true
@@ -10,34 +14,34 @@ classes: wide
 feature_row1:
   - image_path: assets/images/0619CED0-FE46-4E25-A039-A703433FC1B5_1_105_c.jpeg
     alt: "Resources"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Explore guides, cheat sheets, and helpful R materials."
     url: "/resources/"
     btn_class: "btn--inverse"
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Explore Resources"
 
 feature_row2:
   - image_path: assets/images/4C9008C8-D14E-4699-8430-C781C1FB0B43_1_105_c.jpeg
     alt: "Lectures"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Favorite and featured lecture modules from CM515."
     url: "/lectures/"
     btn_class: "btn--inverse"
-    btn_label: "Whatever you want your button to say"
+    btn_label: "View Lectures"
 
 feature_row3:
   - image_path: assets/images/6CDF7340-AF4F-4F43-8334-2AC89E236CDB_1_105_c.jpeg
     alt: "Image Analysis Project"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Learn how we analyzed microscopy images in R."
     url: "/image_analysis_project/"
     btn_class: "btn--inverse"
-    btn_label: "Whatever you want your button to say"
+    btn_label: "See Project"
 
 feature_row4:
   - image_path: assets/images/path_to_your_image.png
     alt: "ggplot Project"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Explore our visualizations using ggplot2."
     url: "/gglplot_project/"
     btn_class: "btn--inverse"
-    btn_label: "Whatever you want your button to say"
+    btn_label: "View Visuals"
 ---
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)!
@@ -53,5 +57,3 @@ Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-Univer
 
 # ggplot Project
 {% include feature_row id="feature_row4" type="left" %}
-
-
