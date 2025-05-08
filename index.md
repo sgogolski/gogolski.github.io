@@ -10,20 +10,13 @@ title: Home
     <h3>Navigation</h3>
     <ul style="list-style-type: none; padding-left: 0;">
       <li><a href="https://github.com/sgogolski/sgogolski.github.io/blob/main/README.md">📄 View README</a></li>
-      <!-- Add more links if needed -->
     </ul>
   </div>
 
   <!-- Main Content -->
   <div>
-    ## Welcome to My GitHub Page
-
-    Here I highlight my favorite modules from the CM515 course and share useful links.
+    <h1>Welcome to My GitHub Page</h1>
+    <p>Here I highlight my favorite modules from the CM515 course and share useful links.</p>
   </div>
 
 </div>
-
-
-
-
-
