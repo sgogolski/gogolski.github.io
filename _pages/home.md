@@ -40,7 +40,7 @@ feature_row4:
   - image_path: assets/images/ggplot.png
     alt: "ggplot"
     excerpt: "Explore our visualizations using ggplot2."
-    url: "/gglplot/"
+    url: "/ggplot/"
     btn_class: "btn--inverse"
     btn_label: "View Visuals"
 ---
