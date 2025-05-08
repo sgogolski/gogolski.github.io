@@ -37,7 +37,7 @@ feature_row3:
 
 
 feature_row4:
-  - image_path: assets/images/ggplot from R.png
+  - image_path: assets/images/ggplot.png
     alt: "ggplot"
     excerpt: "Explore our visualizations using ggplot2."
     url: "/gglplot/"
