@@ -3,7 +3,7 @@ layout: single # I've mostly used the most basic layout, single, and modified it
 permalink: /link/ # for example, for the resources page you would put resources
 hidden: true
 header:
-  overlay_image: /assets/path/to/image.png
+  overlay_image: /assets/images/4C9008C8-D14E-4699-8430-C781C1FB0B43_1_105_c.jpeg
 title: "Your title here"
 tagline: "Your subtitle here"   
 author_profile: false # you can change this to true if you want this on the side again!
