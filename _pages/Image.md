@@ -8,7 +8,7 @@ read_time: true
 share: false
 classes: wide
 header:
-  overlay_image: /assets/images/4C9008C8-D14E-4699-8430-C781C1FB0B43_1_105_c.jpeg
+  overlay_image: /assets/images/3389847.jpg
   overlay_filter: 0.3
   caption: "Resources from the CM515 Course"
 ---
