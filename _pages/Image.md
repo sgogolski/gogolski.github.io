@@ -3,7 +3,7 @@ layout: single
 permalink: /Image/
 title: "Image Resources"
 tagline: "Handouts, links, and data for CM515"
-author_profile: true
+author_profile: false
 read_time: true
 share: false
 classes: wide
