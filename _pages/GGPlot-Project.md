@@ -23,25 +23,14 @@ Here are the resources from the CM515 course:
 
 ---
 
-## Code Examples
+## Code Example (R)
 
-{% tabs resources %}
-
-{% tab Image Analysis %}
-Use the [PDB Explorer](https://www.rcsb.org/) to explore protein structures.
-{% endtab %}
-
-{% tab Python Snippets %}
-```python
-import pandas as pd
-
+```r
 # Load the dataset
-df = pd.read_csv("dataset_a.csv")
+df <- read.csv("dataset_a.csv")
 
-# Display basic info
-print(df.info())
-
-
+# Show structure
+str(df)
 
 
 
