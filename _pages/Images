@@ -1,16 +1,14 @@
 ---
-layout: single 
-permalink: /Images/ 
-hidden: false
+layout: single
+permalink: /lectures/
+title: "Course Lectures"
+tagline: "Favorite and featured modules from CM515"
+author_profile: true
+read_time: true
+share: false
+classes: wide
 header:
-  overlay_image: /assets/images/0619CED0-FE46-4E25-A039-A703433FC1B5_1_105_c.jpeg
-title: "Image Project"
-tagline: "Your subtitle here"   
-author_profile: false 
-read_time: true 
-share: true 
-classes: wide 
-sidebar:
-  nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
-
+  overlay_image: /assets/images/6CDF7340-AF4F-4F43-8334-2AC89E236CDB_1_105_c.jpeg
+  overlay_filter: 0.3
+  caption: "Lectures from the CM515 Course"
 ---
