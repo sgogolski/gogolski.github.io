@@ -36,7 +36,7 @@ feature_row3:
     btn_label: "See Project"
 
 feature_row4:
-  - image_path: assets/images/path_to_your_image.png
+  - image_path: assets/images/ggplot from R.png
     alt: "ggplot Project"
     excerpt: "Explore our visualizations using ggplot2."
     url: "/gglplot_project/"
