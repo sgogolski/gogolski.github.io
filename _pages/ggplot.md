@@ -1,22 +1,34 @@
 ---
-layout: single
+layout: splash
 permalink: /ggplot/
-title: "ggplot"
-tagline: "Handouts, links, and data for CM515"
+title: "ggplot Resources"
+tagline: "Visualizations, guides, and downloads for CM515"
 author_profile: false
-read_time: true
-share: false
 classes: wide
 header:
-  overlay_image: /assets/images/0619CED0-FE46-4E25-A039-A703433FC1B5_1_105_c.jpeg
-  overlay_filter: 0.3
-  caption: "Resources from the CM515 Course"
+  overlay_image: /assets/images/ggplot_image.jpeg 
+  overlay_filter: 0.25
+  caption: "Explore ggplot2: Tools and techniques for effective visual communication"
+intro:
+  - excerpt: "**ggplot2** is your go-to tool for beautiful, layered graphics in R. Use this page to access all the course handouts, datasets, and helpful resources."
+feature_row:
+  - image_path: /assets/images/icons/data.png
+    alt: "CSV"
+    title: "Download Dataset A"
+    url: /resources/files/dataset_a.csv
+    btn_label: "Download"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/icons/pdf.png
+    alt: "PDF"
+    title: "Reference Sheet"
+    url: /resources/files/ref_sheet.pdf
+    btn_label: "View PDF"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/icons/external.png
+    alt: "External Tool"
+    title: "PDB Explorer"
+    url: https://www.rcsb.org/
+    btn_label: "Go to site"
+    btn_class: "btn--primary"
 ---
 
-## Resource List
-
-Here are the resources from the CM515 course:
-
-- [Dataset A (CSV)](/resources/files/dataset_a.csv)
-- [Reference Sheet (PDF)](/resources/files/ref_sheet.pdf)
-- [External Tool: PDB Explorer](https://www.rcsb.org/)
