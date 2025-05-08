@@ -1,29 +1,45 @@
 ---
-layout: splash
+layout: single
 permalink: /ggplot/
 title: "ggplot Resources"
 tagline: "Visualizations, guides, and downloads for CM515"
 author_profile: false
+read_time: true
 classes: wide
 header:
   overlay_image: /assets/images/ggplot2-banner.png
   overlay_filter: 0.3
   caption: "Visualizing Data with ggplot2"
-intro:
-  - excerpt: "ggplot2 is your go-to tool for beautiful, layered graphics in R."
-feature_row:
-  - title: "Dataset A"
-    url: /resources/files/dataset_a.csv
-    btn_label: "Download CSV"
-    btn_class: "btn--primary"
-  - title: "Reference Sheet"
-    url: /resources/files/ref_sheet.pdf
-    btn_label: "View PDF"
-    btn_class: "btn--primary"
-  - title: "PDB Explorer"
-    url: https://www.rcsb.org/
-    btn_label: "Visit Site"
-    btn_class: "btn--primary"
 ---
+
+## Overview
+
+**ggplot2** is a powerful R package for creating elegant data visualizations. This page includes datasets, reference materials, and external tools to support your learning.
+
+---
+
+## Downloads
+
+- 📊 [**Dataset A (CSV)**](/resources/files/dataset_a.csv)
+- 📄 [**Reference Sheet (PDF)**](/resources/files/ref_sheet.pdf)
+
+---
+
+## External Resources
+
+- 🌐 [**PDB Explorer**](https://www.rcsb.org/): Visualize and explore protein structures
+
+---
+
+## Example Output
+
+Here’s what a basic `ggplot2` visualization looks like:
+
+```r
+library(ggplot2)
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  geom_point() +
+  theme_minimal()
+
 
 
