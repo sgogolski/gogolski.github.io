@@ -1,32 +1,43 @@
 ---
 layout: single
-permalink: /ggplot-project/
-title: "GGPlot Project"
-tagline: "Visualizations created using ggplot2 for CM515"
+permalink: /resources/
+title: "Course Resources"
+tagline: "Handouts, links, and data for CM515"
 author_profile: true
 read_time: true
 share: false
 classes: wide
 header:
-  overlay_image: /assets/images/4C9008C8-D14E-4699-8430-C781C1FB0B43_1_105_c.jpeg
+  overlay_image: /assets/images/0619CED0-FE46-4E25-A039-A703433FC1B5_1_105_c.jpeg
   overlay_filter: 0.3
-  caption: "Data Visualization with ggplot2"
+  caption: "Resources from the CM515 Course"
 ---
 
-## Project Overview
+## Resource List
 
-This page showcases selected plots created using **ggplot2** as part of the CM515 course.
+Here are the resources from the CM515 course:
 
-## Visualization Example
+- [Dataset A (CSV)](/resources/files/dataset_a.csv)
+- [Reference Sheet (PDF)](/resources/files/ref_sheet.pdf)
+- [External Tool: PDB Explorer](https://www.rcsb.org/)
 
-![GGPlot Example](/assets/images/4C9008C8-D14E-4699-8430-C781C1FB0B43_1_105_c.jpeg)
+---
 
-*Figure: Sample ggplot2 output visualizing course-related data.*
+## Code Examples
 
-## Resources
+{% tabs resources %}
 
-- [R Project File (.Rproj)](/ggplot-project/files/cm515_project.Rproj)
-- [Script File (.R)](/ggplot-project/files/plot_script.R)
-- [Dataset Used (CSV)](/ggplot-project/files/ggplot_data.csv)
+{% tab Image Analysis %}
+Use the [PDB Explorer](https://www.rcsb.org/) to explore protein structures.
+
+```python
+# Example: Load and display a PDB structure using BioPython
+from Bio.PDB import PDBParser
+
+parser = PDBParser()
+structure = parser.get_structure("1fat", "1fat.pdb")
+for model in structure:
+    print("Model:", model)
+
 
 
