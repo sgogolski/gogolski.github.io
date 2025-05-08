@@ -31,7 +31,7 @@ feature_row3:
   - image_path: assets/images/image_2.png
     alt: "Image Analysis Project"
     excerpt: "Learn how we analyzed microscopy images in R."
-    url: "/image_analysis_project/"
+    url: "/image/"
     btn_class: "btn--inverse"
     btn_label: "See Project"
 
@@ -39,7 +39,7 @@ feature_row4:
   - image_path: assets/images/ggplot from R.png
     alt: "ggplot Project"
     excerpt: "Explore our visualizations using ggplot2."
-    url: "/gglplot_project/"
+    url: "/gglplot/"
     btn_class: "btn--inverse"
     btn_label: "View Visuals"
 ---
