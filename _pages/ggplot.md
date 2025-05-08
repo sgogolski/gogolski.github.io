@@ -27,7 +27,9 @@ header:
 
 ## External Resources
 
-- 🌐 [**R for Data Science**](https://r4ds.had.co.nz/index.html): Using RStudio for Data Analysis
+- 🌐 [**R for Data Science**](https://r4ds.had.co.nz/index.html)  
+  Using RStudio for Data Analysis
+
 
 ---
 
