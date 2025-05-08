@@ -28,7 +28,7 @@ feature_row2:
     btn_label: "View Lectures"
 
 feature_row3:
-  - image_path: assets/images/6CDF7340-AF4F-4F43-8334-2AC89E236CDB_1_105_c.jpeg
+  - image_path: assets/images/image_2.png
     alt: "Image Analysis Project"
     excerpt: "Learn how we analyzed microscopy images in R."
     url: "/image_analysis_project/"
