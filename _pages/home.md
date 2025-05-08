@@ -31,13 +31,6 @@ feature_row3:
     btn_class: "btn--inverse"
     btn_label: "Whatever you want your button to say"
 
-feature_row4:
-  - image_path: path_to_your_image.png
-    alt: "ggplot Project"
-    excerpt: "Enter a relatively short description here"
-    url: "/gglplot_project/"
-    btn_class: "btn--inverse"
-    btn_label: "Whatever you want your button to say"
 ---
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)!
