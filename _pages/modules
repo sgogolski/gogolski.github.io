@@ -1,7 +1,5 @@
-_pages/
-  modules/
-    02_RStudio.md
-    04_Tidyverse.md
-    09_Working_With_Protein_Structures.md
-    12_Programming_Basics.md
+02_RStudio.md
+04_Tidyverse.md
+09_Working_With_Protein_Structures.md
+12_Programming_Basics.md
 
