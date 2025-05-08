@@ -40,4 +40,18 @@ feature_row4:
     btn_label: "Whatever you want your button to say"
 ---
 
+Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)!
+
+# Resources
+{% include feature_row id="feature_row1" type="left" %}
+
+# Lectures
+{% include feature_row id="feature_row2" type="left" %}
+
+# Image Analysis Project
+{% include feature_row id="feature_row3" type="left" %}
+
+# ggplot Project
+{% include feature_row id="feature_row4" type="left" %}
+
 
