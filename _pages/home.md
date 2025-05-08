@@ -31,9 +31,10 @@ feature_row3:
   - image_path: assets/images/3389847.jpg
     alt: "Image"
     excerpt: "Learn how we analyzed microscopy images in R."
-    url: "/image/"
+    url: "/Image/"    # ✅ uppercase 'I'
     btn_class: "btn--inverse"
     btn_label: "See Project"
+
 
 feature_row4:
   - image_path: assets/images/ggplot from R.png
