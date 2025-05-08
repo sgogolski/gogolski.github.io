@@ -36,7 +36,7 @@ header:
 
 Here are somce of the available modules from the CM515 course:
 
-- [Lecture 1: RStudio](/modules/02_RStudio/)
+- [Lecture 1: RStudio](/modules/02_RStudio.md)
 - [Lecture 2: Tidyverse](/modules/04_Tidyverse/)
 - [Lecture 3: Working with Protein Structures](/modules/09_Working_With_Protein_Structures/)
 - [Lecture 4: Programming Basics](/modules/12_Programming_Basics/)
