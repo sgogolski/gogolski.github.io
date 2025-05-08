@@ -20,3 +20,4 @@ Here are the resources from the CM515 course:
 - [Dataset A (CSV)](/resources/files/dataset_a.csv)
 - [Reference Sheet (PDF)](/resources/files/ref_sheet.pdf)
 - [External Tool: PDB Explorer](https://www.rcsb.org/)
+
