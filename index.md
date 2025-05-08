@@ -1,28 +1,29 @@
-## My Favorite Modules were:
+---
+layout: default
+title: Home
+---
 
-Use this reference to learn how to format this README: [Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
+<div style="display: flex;">
 
-### For R:
+  <!-- Sidebar -->
+  <div style="min-width: 200px; margin-right: 2em; background-color: #f4f4f4; padding: 1em;">
+    <h3>Navigation</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li><a href="https://github.com/sgogolski/sgogolski.github.io/blob/main/README.md">📄 View README</a></li>
+      <!-- Add more links if needed -->
+    </ul>
+  </div>
 
-Here are the four most useful R modules for me:
+  <!-- Main Content -->
+  <div>
+    ## Welcome to My GitHub Page
 
-- [RStudio](modules/02_RStudio)
-- [Tidyverse](modules/04_Tidyverse)
-- [ggPlot Visualization](modules/05_GGplot_Visualization)
-- [Plots in Presentation](modules/10_Presenting_Data)
+    Here I highlight my favorite modules from the CM515 course and share useful links.
+  </div>
 
-### Non-R related modules:
+</div>
 
-Some interesting non-R modules I enjoyed:
 
-- [chatGPT](modules/01_chatGPT)
-- [Git your repo figured out](modules/14_Git_and_version_control)
 
-### Link to my website:
 
-[My GitHub website link](https://sgogolski.github.io)
-
-### View my project README:
-
-[View my project README](https://github.com/sgogolski.github.io/blob/main/README.md)
 
