@@ -1,22 +1,55 @@
 ---
-layout: default
-title: Home
+layout: single
+permalink: /
+title: " "
+tagline: " "
+author_profile: true
+classes: wide
+
+feature_row1:
+  - image_path: assets/images/0619CED0-FE46-4E25-A039-A703433FC1B5_1_105_c.jpeg
+    alt: "Resources"
+    excerpt: "Explore guides, cheat sheets, and helpful R materials."
+    url: "/resources/"
+    btn_class: "btn--inverse"
+    btn_label: "Explore Resources"
+
+feature_row2:
+  - image_path: assets/images/4C9008C8-D14E-4699-8430-C781C1FB0B43_1_105_c.jpeg
+    alt: "Lectures"
+    excerpt: "Favorite and featured lecture modules from CM515."
+    url: "/lectures/"
+    btn_class: "btn--inverse"
+    btn_label: "View Lectures"
+
+feature_row3:
+  - image_path: assets/images/6CDF7340-AF4F-4F43-8334-2AC89E236CDB_1_105_c.jpeg
+    alt: "Image Analysis Project"
+    excerpt: "Learn how we analyzed microscopy images in R."
+    url: "/image_analysis_project/"
+    btn_class: "btn--inverse"
+    btn_label: "See Project"
+
+feature_row4:
+  - image_path: assets/images/path_to_your_image.png
+    alt: "ggplot Project"
+    excerpt: "Explore our visualizations using ggplot2."
+    url: "/gglplot_project/"
+    btn_class: "btn--inverse"
+    btn_label: "View Visuals"
 ---
 
-<div style="display: flex;">
+Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)!
 
-  <!-- Sidebar -->
-  <div style="min-width: 200px; margin-right: 2em; background-color: #f4f4f4; padding: 1em;">
-    <h3>Navigation</h3>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li><a href="https://github.com/sgogolski/sgogolski.github.io/blob/main/README.md">📄 View README</a></li>
-    </ul>
-  </div>
+# Resources
+{% include feature_row id="feature_row1" type="left" %}
 
-  <!-- Main Content -->
-  <div>
-    <h1>Welcome to My GitHub Page</h1>
-    <p>Here I highlight my favorite modules from the CM515 course and share useful links.</p>
-  </div>
+# Lectures
+{% include feature_row id="feature_row2" type="left" %}
 
-</div>
+# Image Analysis Project
+{% include feature_row id="feature_row3" type="left" %}
+
+# ggplot Project
+{% include feature_row id="feature_row4" type="left" %}
+
