@@ -28,7 +28,7 @@ feature_row2:
     btn_label: "View Lectures"
 
 feature_row3:
-  - image_path: assets/images/image_2.png
+  - image_path: assets/images/3389847.jpg
     alt: "Image"
     excerpt: "Learn how we analyzed microscopy images in R."
     url: "/image/"
