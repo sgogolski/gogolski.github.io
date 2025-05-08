@@ -7,7 +7,13 @@ author_profile: true
 read_time: true
 share: false
 classes: wide
+header:
+  overlay_image: /assets/images/headers/lectures-overlay.jpeg
+  overlay_filter: 0.3  # optional: darkens image for text readability
+  caption: "Lectures from the CM515 Course"
+---
 
+{% include feature_row %}
 feature_row:
   - alt: "RStudio"
     excerpt: "Introduction to RStudio and R basics"
@@ -24,9 +30,6 @@ feature_row:
     url: "/modules/git/"
     btn_class: "btn--warning"
     btn_label: "View Module"
----
-
-{% include feature_row %}
 
 
 
