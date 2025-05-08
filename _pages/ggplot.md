@@ -27,7 +27,7 @@ header:
 
 ## External Resources
 
-- 🌐 [**PDB Explorer**](https://www.rcsb.org/): Visualize and explore protein structures
+- 🌐 [**R for Data Science**](https://r4ds.had.co.nz/index.html): Visualize and explore protein structures
 
 ---
 
