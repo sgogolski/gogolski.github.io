@@ -1,40 +1,26 @@
 ---
 layout: single
-title: "GGPlot Project"
 permalink: /ggplot-project/
-classes: wide
+title: "GGPlot Project"
+tagline: "Visualizations and exercises using ggplot2"
 author_profile: true
 read_time: true
 share: false
+classes: wide
 header:
-  overlay_image: /assets/images/ggplot-header.jpg
+  overlay_image: /assets/images/headers/ggplot-overlay.jpeg
   overlay_filter: 0.3
-  caption: "Visualizations with ggplot2 in R"
+  caption: "Projects and visuals from the CM515 course"
 ---
 
-## GGPlot Project Overview
+## GGPlot Modules
 
-Welcome to the **GGPlot Project** page. This is where you’ll find example code, explanations, and data visualizations created using the `ggplot2` package in R.
+This section will feature ggplot-related content. For now, here is a placeholder from the lecture list:
 
----
+- [Lecture 1: RStudio](/modules/02_RStudio/)
+- [Lecture 2: Tidyverse](/modules/04_Tidyverse/)
+- [Lecture 3: Working with Protein Structures](/modules/09_Working_With_Protein_Structures/)
+- [Lecture 4: Programming Basics](/modules/12_Programming_Basics/)
 
-## Example Code (R)
-
-```r
-# Load required libraries
-library(ggplot2)
-
-# Use built-in dataset
-data(mpg)
-
-# Create scatter plot
-ggplot(mpg, aes(x = displ, y = hwy, color = class)) +
-  geom_point() +
-  labs(
-    title = "Engine Displacement vs. Highway MPG",
-    x = "Displacement (liters)",
-    y = "Highway MPG"
-  ) +
-  theme_minimal()
 
 
