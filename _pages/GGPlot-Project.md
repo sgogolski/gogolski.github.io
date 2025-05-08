@@ -29,15 +29,19 @@ Here are the resources from the CM515 course:
 
 {% tab Image Analysis %}
 Use the [PDB Explorer](https://www.rcsb.org/) to explore protein structures.
+{% endtab %}
 
+{% tab Python Snippets %}
 ```python
-# Example: Load and display a PDB structure using BioPython
-from Bio.PDB import PDBParser
+import pandas as pd
 
-parser = PDBParser()
-structure = parser.get_structure("1fat", "1fat.pdb")
-for model in structure:
-    print("Model:", model)
+# Load the dataset
+df = pd.read_csv("dataset_a.csv")
+
+# Display basic info
+print(df.info())
+
+
 
 
 
