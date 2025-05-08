@@ -48,15 +48,16 @@ feature_row4:
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)!
 
 # Resources
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row1" type="center" %}
 
 # Lectures
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="center" %}
 
 # Image 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row3" type="center" %}
 
 # ggplot
 {% include feature_row id="feature_row4" type="center" %}
+
 
 
