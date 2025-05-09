@@ -1,43 +1,53 @@
 ---
-layout: splash
+layout: single
 permalink: /ggplot/
 title: "ggplot Resources"
+tagline: "Visualizations, guides, and downloads for CM515"
+author_profile: false
+read_time: true
+classes: wide
 header:
   overlay_image: /assets/images/ggplot2-banner.png
   overlay_filter: 0.3
   caption: "Visualizing Data with ggplot2"
-  actions:
-    - label: "Learn ggplot2"
-      url: https://ggplot2.tidyverse.org/
-    - label: "R for Data Science"
-      url: https://r4ds.had.co.nz/
-
-intro:
-  - excerpt: >
-      This page showcases visual outputs generated using `ggplot2`, one of the most powerful tools for data visualization in R. Explore plots, download assets, and interpret data outputs.
-
-feature_row:
-  - image_path: /assets/images/facets.png
-    alt: "Faceted Scatter Plot"
-    title: "Faceted Scatter Plot"
-    excerpt: >
-      Recolored facets highlight increased activity for mouse 55976, making group comparison more intuitive.
-    url: /assets/images/facets.png
-    btn_label: "⬇ Download Facet Plot"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/density%20plot.png
-    alt: "Density Ridge Plot"
-    title: "Density Ridge Plot"
-    excerpt: >
-      This plot shows activity distribution across mice from August 5–19. Wider ridges indicate greater variability.
-    url: /assets/images/density%20plot.png
-    btn_label: "⬇ Download Density Plot"
-    btn_class: "btn--primary"
 ---
 
+## Overview
 
+**ggplot2** is a powerful R package for creating elegant data visualizations. This page includes visual examples, interpretation, and helpful links to support your learning.
 
+---
 
+## External Resources
 
+- 🌐 [**R for Data Science**](https://r4ds.had.co.nz/index.html)  
+  Using RStudio for Data Analysis
+
+---
+
+## Example Output
+
+### Faceted Scatter Plot
+
+<div style="text-align: center; margin-bottom: 1rem;">
+  <img src="/assets/images/facets.png" alt="Faceted Scatter Plot" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-style: italic; color: #666;">Scatter Plot of Activity Values over Time (Faceted by Activity)</p>
+  <a href="/assets/images/facets.png" download class="btn btn--primary">⬇ Download Facet Plot</a>
+</div>
+
+**Description and Interpretation**:  
+The facet has been reordered along with colors changed, which visually appears to make it easier to distinguish increased activity for mouse 55976 versus others.
+
+---
+
+### Density Ridge Plot
+
+<div style="text-align: center; margin-bottom: 1rem;">
+  <img src="/assets/images/density%20plot.png" alt="Density Ridge Plot" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-style: italic; color: #666;">Density Ridge Plot of Activities over Time</p>
+  <a href="/assets/images/density%20plot.png" download class="btn btn--primary">⬇ Download Density Plot</a>
+</div>
+
+**Description and Interpretation**:  
+This density plot illustrates how each mouse’s activity was fairly normally distributed over the time period of August 5 to August 19. The wider ridges highlight a broader spread or more variability in the activity.
 
