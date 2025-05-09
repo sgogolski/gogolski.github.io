@@ -15,10 +15,10 @@ classes: wide
     <h2>Lecture List</h2>
     <p>Here are some of the available modules from the CM515 course:</p>
     <ul>
-      <li><a href="https://sgogolski.github.io/CM515-course-2025/modules/02_RStudio/" target="_blank">Lecture 1: RStudio</a></li>
-      <li><a href="https://sgogolski.github.io/CM515-course-2025/modules/04_Tidyverse/" target="_blank">Lecture 2: Tidyverse</a></li>
-      <li><a href="https://sgogolski.github.io/CM515-course-2025/modules/09_Working_With_Protein_Structures/" target="_blank">Lecture 3: Working with Protein Structures</a></li>
-      <li><a href="https://sgogolski.github.io/CM515-course-2025/modules/12_Programming_Basics/" target="_blank">Lecture 4: Programming Basics</a></li>
+      <li><a href="https://github.com/sgogolski/CM515-course-2025/modules/02_RStudio/" target="_blank">Lecture 1: RStudio</a></li>
+      <li><a href="https://github.com/sgogolski/CM515-course-2025/modules/04_Tidyverse/" target="_blank">Lecture 2: Tidyverse</a></li>
+      <li><a href="https://github.com/sgogolski/CM515-course-2025/modules/09_Working_With_Protein_Structures/" target="_blank">Lecture 3: Working with Protein Structures</a></li>
+      <li><a href="https://github.com/sgogolski/CM515-course-2025/modules/12_Programming_Basics/" target="_blank">Lecture 4: Programming Basics</a></li>
     </ul>
 
     <h2>Downloadable Materials</h2>
