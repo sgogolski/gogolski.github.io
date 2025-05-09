@@ -14,7 +14,7 @@ classes: wide
 feature_row1:
   - image_path: assets/images/0619CED0-FE46-4E25-A039-A703433FC1B5_1_105_c.jpeg
     alt: "Resources"
-    excerpt: "Explore guides, cheat sheets, and helpful R materials."
+    excerpt: "Explore helpful course materials."
     url: "/resources/"
     btn_class: "btn--inverse"
     btn_label: "Explore Resources"
@@ -30,7 +30,7 @@ feature_row2:
 feature_row3:
   - image_path: assets/images/image_2.png
     alt: "Image"
-    excerpt: "Learn how we analyzed microscopy images in R."
+    excerpt: "Learn how we analyzed microscopy images using Cell Profiler."
     url: "/Image/"    # ✅ uppercase 'I'
     btn_class: "btn--inverse"
     btn_label: "See Project"
