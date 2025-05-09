@@ -35,3 +35,5 @@ Here are the resources from the CM515 course:
 - 📄 [Reference Sheet (PDF)](/resources/files/ref_sheet.pdf)
 - 🌐 [External Tool: PDB Explorer](https://www.rcsb.org/)
 
+### Assignments
+- 📄 [Image Processing(PDF)](/assets/resources/Copy%20of%20CM515_ImageProcessing_RosiDanzman_MeleaBarahona_part2.pdf)
