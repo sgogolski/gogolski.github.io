@@ -22,7 +22,6 @@ classes: wide
 ### Reference Materials
 - [Data Visualization (PDF)](/assets/resources/DataVisualizationI.pdf)
 
-
 ### Code
 - 🧪 [Example R Script](/resources/files/example_code.R)
 
