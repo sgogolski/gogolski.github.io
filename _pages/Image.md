@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /Image/
-title: "Image Resources"
+title: "Image Analysis"
 tagline: "Handouts, links, and data for CM515"
 author_profile: false
 read_time: true
