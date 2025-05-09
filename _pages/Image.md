@@ -10,7 +10,7 @@ classes: wide
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/images/Ble_repB_0-04.czi_MAX_C2.tiff" alt="Resources from the CM515 Course" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/Ble_repB_0-04.czi_MAX_C2.png" alt="Resources from the CM515 Course" style="max-width: 100%; height: auto; border-radius: 8px;">
   <p style="margin-top: 0.5rem; font-style: italic; color: #666;">Resources from the CM515 Course</p>
 </div>
 
