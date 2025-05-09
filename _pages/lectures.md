@@ -20,6 +20,13 @@ classes: wide
       <li><a href="/modules/09_Working_With_Protein_Structures/">Lecture 3: Working with Protein Structures</a></li>
       <li><a href="/modules/12_Programming_Basics/">Lecture 4: Programming Basics</a></li>
     </ul>
+
+    <h2>Downloadable Materials</h2>
+    <ul>
+      <li>📊 <a href="/assets/resources/TidyverseDay1_AMA.pptx">Tidyverse Day 1 (PPTX)</a></li>
+      <li>🤖 <a href="/assets/resources/chatGPT_intro_2025.pptx">Intro to ChatGPT 2025 (PPTX)</a></li>
+      <li>🌿 <a href="/assets/resources/ggtree_sample.pdf">GGTREE Sample (PDF)</a></li>
+    </ul>
   </div>
 
   <div style="flex: 1; min-width: 200px;">
