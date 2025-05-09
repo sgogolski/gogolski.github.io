@@ -20,7 +20,7 @@ classes: wide
 - 📊 [Dataset A (CSV)](/resources/files/dataset_a.csv)
 
 ### Reference Materials
-- 📄 [Lecture Notes (PDF)](/resources/files/lecture_notes.pdf)
+- 📄 [Data Visualization](PDF)](/assets/resources/DataVisualizationI.pdf)
 
 ### Code
 - 🧪 [Example R Script](/resources/files/example_code.R)
