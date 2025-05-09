@@ -17,15 +17,14 @@ classes: wide
 ## Resource List
 
 ### Datasets
-- 📊 [Dataset A (CSV)](/resources/files/dataset_a.csv)
+- 📈 [US Births 2000–2014 (CSV)](/assets/resources/US_births_2000-2014_SSA.csv)
 
 ### Reference Materials
-- [Data Visualization (PDF)](/assets/resources/DataVisualizationI.pdf)
+- 📄 [Data Visualization (PDF)](/assets/resources/DataVisualizationI.pdf)
 
 ### Code
-- 🧪 [Example R Script](/resources/files/example_code.R)
+- 🐞 [Debug Example (R Script)](/assets/resources/DebugExample.R)
 
-### Downloads
-- 📦 [Project Files (ZIP)](/resources/files/project_files.zip)
+
 
 
