@@ -16,11 +16,16 @@ classes: wide
 
 ## Resource List
 
-Here are the resources from the CM515 course:
+### Datasets
+- 📊 [Dataset A (CSV)](/resources/files/dataset_a.csv)
 
-- [Dataset A (CSV)](/resources/files/dataset_a.csv)
-- [Reference Sheet (PDF)](/resources/files/ref_sheet.pdf)
-- [External Tool: PDB Explorer](https://www.rcsb.org/)
+### Reference Materials
+- 📄 [Lecture Notes (PDF)](/resources/files/lecture_notes.pdf)
 
+### Code
+- 🧪 [Example R Script](/resources/files/example_code.R)
+
+### Downloads
+- 📦 [Project Files (ZIP)](/resources/files/project_files.zip)
 
 
